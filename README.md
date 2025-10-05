@@ -8,7 +8,7 @@ This is a reproduction of Bryce's PS2 Mouse Adapter, see [CPC Wiki PS2 Mouse](ht
 
 >[!CAUTION]
 >USE AT YOUR OWN RISK.
->There is always the risk that the PS2 Adapter could cause harm to your CPC. Although I have tested the PS2 Mouse Adapter, there is no guarantee that it will work properly under all circumstances.
+>There is always the risk that the PS2 Mouse Adapter could cause harm to your CPC. Although I have tested the PS2 Mouse Adapter, there is no guarantee that it will work properly under all circumstances.
 
 This repository contains my reproduction of the Bryce's PS2 Mouse Adapter and includes the KiCad 7.0 project files, gerber files and a 3D printable case. For all other information see [CPC Wiki PS2 Mouse](https://www.cpcwiki.eu/index.php?title=PS2Mouse)
 
