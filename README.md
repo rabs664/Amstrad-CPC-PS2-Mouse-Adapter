@@ -1,7 +1,8 @@
 # Amstrad-CPC-PS2-Mouse-Adapter
 This is a reproduction of Bryce's PS2 Mouse Adapter, see [CPC Wiki PS2 Mouse](https://www.cpcwiki.eu/index.php?title=PS2Mouse)
 
-Acknowledgements got to Bryce for posting the origin design to the COC Wiki. Many Thanks.
+>[!NOTE]
+>Acknowledgements go to Bryce for posting the origin design to the CPC Wiki. Many Thanks.
 
 ![Amstrad CPC PS2 Mouse Adapter](https://github.com/user-attachments/assets/714ede60-465c-4d70-b158-1c28a0cf5435)
 
